@@ -1,11 +1,9 @@
-# Your GitHub Learning Lab Repository for Community Starter Kit
+# this is a Sample Description of the Project
 
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through to learn about making your project friendlier for collaboration.
+The project will then have a description.  It may even have some objectives in a list format:
+- like this
+- and this
+- and this
+- and this
 
-Oh! I haven't introduced myself...
-
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added a pull request for you to check out.
-
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
-
-I'll meet you over there, can't wait to get started!
+There ** may ** be some text here as well :smile:
